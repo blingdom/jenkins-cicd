@@ -1,0 +1,5 @@
+# ignore the test suites
+test-reports/
+
+# ignore cache files
+__pycache__/
